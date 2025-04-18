@@ -2,7 +2,12 @@
 
 ## 📋 Challenge Instructions
 
-You'll be writing an end-to-end test for this simple React Native app using Appium.
+   - You'll be writing an end-to-end test for this simple React Native app using Appium.
+   - Create a spec file for writing both positive and negative scenario.
+   - Create a google or word document that has test plan and answers to question 3.
+   - Note the time it takes to work on the exercise.
+   - Email the spec and doc back to the recruiter.
+   - Include a README if setup is needed.
 
 ### ✅ Your Tasks:
 1. Write an Appium test that:
@@ -25,5 +30,3 @@ You'll be writing an end-to-end test for this simple React Native app using Appi
 
 UI Mock-up
 ![Login   Welcome Screen](https://github.com/user-attachments/assets/d79748e6-b49c-4de3-a5cb-c1799a857e0d)
-
-- Include a README if setup is needed.
