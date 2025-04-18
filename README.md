@@ -23,6 +23,7 @@ You'll be writing an end-to-end test for this simple React Native app using Appi
 
 ---
 
--- Include a README if setup is needed.
-
+UI Mock-up
 ![Login   Welcome Screen](https://github.com/user-attachments/assets/d79748e6-b49c-4de3-a5cb-c1799a857e0d)
+
+- Include a README if setup is needed.
