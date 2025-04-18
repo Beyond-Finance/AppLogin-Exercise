@@ -4,8 +4,7 @@
 
    - You'll be writing an end-to-end test for this simple React Native app using Appium.
    - Create a spec file for writing both positive and negative scenario.
-   - Create a google or word document that has test plan and answers to question 3.
-   - Note the time it takes to work on the exercise.
+   - Write a short test plan and answer question 3 in a Google Doc, Word Doc, or any format you prefer.
    - Email the spec and doc back to the recruiter.
    - Include a README if setup is needed.
 
