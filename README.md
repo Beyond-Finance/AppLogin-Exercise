@@ -13,9 +13,11 @@ You'll be writing an end-to-end test for this simple React Native app using Appi
 
 2. Bonus:
    - Add a negative test: invalid credentials should stay on login and show an error.
+   - Create a test plan for the Login feature
 
 3. Answer briefly:
    - How would you scale this test suite to work in CI?
+   - What other scenarios would you include?
    - What’s your strategy to handle flaky Appium tests?
    - How would you structure tests for a large React Native app?
 
