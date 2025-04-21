@@ -1,4 +1,4 @@
-# AppLogin-Exercise - SDET Take-home Challenge
+# AppLogin-Exercise - SDET Take-home Assignment
 
 ## 📋 Challenge Instructions
 
